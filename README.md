@@ -8,3 +8,4 @@ Created by:  Stanford University/Andrew Ng
 * https://mitpress.mit.edu/sites/default/files/9780262028189_TOC.pdf -- text
 * http://www.ds100.org/sp17/syllabus
 * http://stanford.edu/class/ee364b/lectures.html
+* https://github.com/timgasser
